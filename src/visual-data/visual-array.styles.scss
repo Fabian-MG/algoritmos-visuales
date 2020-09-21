@@ -1,0 +1,16 @@
+.algo-visualizer-container {
+    width: 100vw;
+    height: 91.5vh;
+    background: #d6e0f0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  
+    .bar {
+      display: flex;
+      margin: 0 1px;
+  
+      border-top-right-radius: 8px;
+      border-top-left-radius: 8px;
+    }
+  }

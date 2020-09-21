@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .nav-brand {
+        width: 15%;
+
+        .bar-graph {
+            margin-right: 10px;
+            fill: white;
+        }
+    }
+
+}
